@@ -1,1 +1,1 @@
-# -gen-Alan-Hesaplama
+# -gen-Alan-www.patika.dev
